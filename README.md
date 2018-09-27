@@ -15,6 +15,24 @@ XamChat works for users on localhost by default, but has the ability to work wit
 * Persist login credentials to provide Auto-login 
 * Login with different user clears the previous user’s data and restarts the XMPP client.
 
+## Requirements
+* [Unity3D](http://Unity3d.com)
+* [Matrix License key](https://www.ag-software.net/matrix-xmpp-sdk/)
+
+## Usage
+* Clone/Download the repository 
+* Setup XMPP server, [ejabberd](https://www.ejabberd.im/)
+* Register user through ejabberd command
+* Open the project in Unity3D
+* Open LoginScene and set the Matrix License Key to LoginHandlerScript
+* Change build platorm to Android
+* Change GameMode screen to 1920x1080
+* Run the app with LoginScene open
+* Signin with Username and Password, Domain is set to "localhost" if left blank
+* Click on Sign In button
+* Click Fab icon to add new Contact (contact@domain) click on "Start chat"
+* Enjoy!
+
 ## Screenshots
 
 ### User Login
