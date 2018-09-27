@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "459904207625",
+    "firebase_url": "https://uchat-efd12.firebaseio.com",
+    "project_id": "uchat-efd12",
+    "storage_bucket": "uchat-efd12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459904207625:android:5811d7d74f3ea966",
+        "android_client_info": {
+          "package_name": "com.mindstix.unitychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459904207625-rdloq4jnldofq1a01rsshmq2r26phj3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPhhgS6ULm73uXJqs-AYhn4tXuB94cd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
